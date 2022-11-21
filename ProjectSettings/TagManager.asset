@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Backgorund
+    uniqueID: 3776125479
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MonsterPS
+    uniqueID: 1237196129
     locked: 0
